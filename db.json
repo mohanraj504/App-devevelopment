@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "mohan",
+      "email": "727723euai504@skcet.ac.in",
+      "password": "mohan@17",
+      "id": 2
+    }
+  ],
+  "insurance": [
+    {
+      "insuranceType": "Health",
+      "name": "mohanraj",
+      "age": "20",
+      "coverageAmount": "50000\\",
+      "id": 1
+    },
+    {
+      "insuranceType": "Health",
+      "name": "mohanraj",
+      "age": "25",
+      "coverageAmount": "5000000",
+      "id": 2
+    },
+    {
+      "insuranceType": "Health",
+      "name": "mohanraj",
+      "age": "56",
+      "coverageAmount": "5000000",
+      "id": 3
+    }
+  ]
+}
